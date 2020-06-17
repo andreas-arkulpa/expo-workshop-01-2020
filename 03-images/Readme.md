@@ -7,4 +7,4 @@
 3. add the following styles:
    - `width: '100%'`
    - `height: 200`
-   - `resize-mode: 'cover'`
+   - `resizeMode: 'cover'`
