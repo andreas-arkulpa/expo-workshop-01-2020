@@ -11,9 +11,11 @@
 
 ### initialize a new Expo Project
 
-- create a new repo called `react-native-image-picker` on GitHub
-- clone the repo and `cd react-native-image-picker`
-- `expo init .` (select the <b>blank</b> template)
+- create a new repo called `react-native-image-picker` on GitHub and copy the clone URL
+- `cd projects`
+- `expo init react-native-image-picker` (select the <b>blank</b> template)
+- `cd react-native-image-picker`
+- `git remote add origin <paste GitHub URL>`
 - `npm start`
 
 ### Expo client for iOS and Android
